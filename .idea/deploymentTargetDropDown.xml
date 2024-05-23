@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="favouritebook">
+        <State />
+      </entry>
+      <entry key="inventapp">
+        <State />
+      </entry>
+      <entry key="navigationdraweractivity">
+        <State />
+      </entry>
+      <entry key="sharer">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\User\.android\avd\Pixel_6a_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-11T00:24:36.568324500Z" />
+        </State>
+      </entry>
+      <entry key="simplefragmentapp">
+        <State />
+      </entry>
+      <entry key="systemintentapp">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
